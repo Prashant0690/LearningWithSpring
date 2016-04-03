@@ -1,0 +1,8 @@
+org\pt\learn\hibernate\genericDao\IGenericDao.class
+org\pt\learn\hibernate\generic\model\EntityObject.class
+org\pt\learn\hibernate\dao\IUserDao.class
+org\pt\learn\hibernate\genericDao\GenericDaoImpl.class
+org\pt\learn\hibernate\generic\model\IEntityObject.class
+org\pt\learn\hibernate\daoJpaImpl\UserDaoImpl.class
+org\pt\learn\hibernate\entity\Users.class
+org\pt\learning\hibernate\test\TestingMain.class
